@@ -1,0 +1,2 @@
+# Lego
+Lego company analysis
